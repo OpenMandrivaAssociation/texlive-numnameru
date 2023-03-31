@@ -1,6 +1,6 @@
 Name:		texlive-numnameru
 Version:	44895
-Release:	1
+Release:	2
 Summary:	Converts a number to the russian spelled out name
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numnameru
