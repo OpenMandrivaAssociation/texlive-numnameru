@@ -3,7 +3,7 @@ Version:	44895
 Release:	2
 Summary:	Converts a number to the russian spelled out name
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numnameru
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/numnameru
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numnameru.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numnameru.doc.r%{version}.tar.xz
